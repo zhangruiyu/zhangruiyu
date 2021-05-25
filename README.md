@@ -3,15 +3,14 @@
 
 - 🔭 我目前在北京一家公司负责 App 研发
 - 🌱 我目前正在玩flutter,个人app已达到100万+下载量,flutterjson插件也达到了接近20万的下载量
-- 💬 你有任何 `Flutter` 的岗位，可以加入QQ群联系我:963752388
+- 💬 你有任何北京 `Flutter` 的岗位，如果不介意我初中学历,可以加入QQ群联系我:963752388
 - 👬 非常希望能和你成为朋友，一起交流学习 `Flutter `
 
 ### 关于我
 
 - 15 年～18 年，使用 `Android` 原生做智能硬件相关的  App 研发
-- 18 年 5 月，一次偶然的机会接触到了 `Flutter` ，然后开始自学，可以看 [weather_flutter](https://github.com/yy1300326388/weather_flutter) 是我练习 Flutter 的入门实战项目（我现在依然觉得他非常适合 Flutter 入门练习使用）
-- 18 年 8 月，顶着巨大的压力（Flutter 当时还没有 Release 1.0）开始使用 Flutter 开发企业级项目，并且开发维护了十几个 Flutter 插件包（因为当时插件资源非常的匮乏）
-- 截止目前主导并参与上线了 4 款企业级`Flutter` App，当前正在负责的一款 App 累计用户`超百万` ，使用 `Flutter` 得到了极佳的体验
+- 18 年，一次偶然的机会接触到了 `Flutter` ，然后开始自学，期间作出 宠窝,一秒语音包 App
+- 18 年, 编写了flutterjsonbean插件,解决dart无法通过泛型实例化问题和json解析的问题,精简dart的model类使得model支持实时修改1处自动生成对应方法功能
 
 ### 语言和工具:
 
