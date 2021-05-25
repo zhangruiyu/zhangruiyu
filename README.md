@@ -26,22 +26,4 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=zhangruiyu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="zhangruiyu" />
-
-### 关注我 
-
-- 遇到问题可以找我帮助解决（联系方式在左侧）
-- 持续分享优质的 `Flutter` 文章和视频
-- 不定期分享 `Flutter` 开发小技巧
-- 百万级 `Flutter` 应用架构经验
-
-<p>
-  <a href="https://github.com/yy1300326388">
-    <img width="200" alt="github" src="https://raw.githubusercontent.com/yy1300326388/yy1300326388/main/images/follow/github_follow.png">
-  </a>
-  <a href="https://juejin.cn/user/764915820276439">
-    <img width="200" alt="juejin" src="https://raw.githubusercontent.com/yy1300326388/yy1300326388/main/images/follow/juejin_follow.png">
-  </a>
-  <a href="https://space.bilibili.com/1698847208">
-    <img width="200" alt="csdn" src="https://raw.githubusercontent.com/yy1300326388/yy1300326388/main/images/follow/bilibili_follow.png">
-  </a>
-</p>
+ 
