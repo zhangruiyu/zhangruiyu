@@ -23,7 +23,6 @@
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="22" height="22"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="22" height="22"/>&nbsp;
-  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_shell.svg" alt="Shell" width="22" height="22"/>&nbsp;
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=zhangruiyu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="zhangruiyu" />
