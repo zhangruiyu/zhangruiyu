@@ -7,7 +7,13 @@
 
 ### 关于我
 
-- 没什么可说的
+- 找工作中
+
+| Flutter插件               |地址|
+|:------------------------|:----|
+| FlutterJsonBeanFactory  |[FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory)|
+| saver_gallery             |[saver_gallery](https://github.com/fluttercandies/saver_gallery)|
+| tencent_cos              |[tencent_cos](https://github.com/zhangruiyu/tencent_cos)|
 
 ### 语言和工具:
 
