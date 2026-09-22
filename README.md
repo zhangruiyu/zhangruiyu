@@ -14,6 +14,7 @@
 | FlutterJsonBeanFactory  |[FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory)|
 | saver_gallery             |[saver_gallery](https://github.com/fluttercandies/saver_gallery)|
 | tencent_cos              |[tencent_cos](https://github.com/zhangruiyu/tencent_cos)|
+以上为自己开源项目,后迁移到组织
 
 ### 语言和工具:
 
